@@ -1,3 +1,3 @@
 # config
 
-git repository only present to show config server capabilities
+git repository only presents to show config server capabilities
